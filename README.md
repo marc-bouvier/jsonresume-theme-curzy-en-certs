@@ -1,4 +1,6 @@
-# FrEnglishench localized [Curzy's JSON Resume theme](https://github.com/Curzy/jsonresume-theme-curzy)
+# Curzy's JSON Resume with certs
+
+English localized [Curzy's JSON Resume theme](https://github.com/Curzy/jsonresume-theme-curzy)
 
 Fork of [Curzy json Resume theme](https://github.com/Curzy/jsonresume-theme-curzy) with additional support for certificates
 
