@@ -1,0 +1,19 @@
+{
+  "name": "@marc-bouvier/jsonresume-theme-curzy-fr-certs",
+  "version": "0.0.4",
+  "description": "French localized Curzy's JSON Resume theme with certificates",
+  "author": "Marc Bouvier <https://github.com/marc-bouvier>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marc-bouvier/jsonresume-theme-curzy-fr-certs"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "dependencies": {
+    "handlebars": "^4.0.10",
+    "moment": "^2.18.1"
+  }
+}
