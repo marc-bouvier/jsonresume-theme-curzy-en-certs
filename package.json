@@ -1,6 +1,6 @@
 {
   "name": "@marc-bouvier/jsonresume-theme-curzy-en-certs",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Fork of Curzy's json Resume theme with additional support for certificates",
   "author": "Marc Bouvier <https://github.com/marc-bouvier>",
   "repository": {

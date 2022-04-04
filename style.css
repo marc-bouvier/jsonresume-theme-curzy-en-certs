@@ -534,24 +534,24 @@ ul.courses li:hover {
     height: 5px;
 }
 
-.level.débutant .bar::after {
+.level.beginner .bar::after {
     background: #EB5F51;
     width: 2.5em;
 }
 
-.level.intermédiaire .bar::after {
+.level.intermediate .bar::after {
     background: #ffdf1f;
     width: 5em;
 }
 
-.level.avancé .bar::after,
-.level.courant .bar::after {
+.level.advanced .bar::after,
+.level.current .bar::after {
     background: #5CB85C;
     width: 7.5em;
 }
 
-.level.maîtrise .bar::after,
-.level.langue.maternelle .bar::after {
+.level.mastery .bar::after,
+.level.mother.tongue .bar::after {
     background: #59C596;
     width: 10em;
 }
